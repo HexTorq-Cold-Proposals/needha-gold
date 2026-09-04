@@ -1,0 +1,14 @@
+{
+  "name": "needha-gold",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static offline mirror of outfit.hellohello.is ready for Vercel deployment",
+  "scripts": {
+    "dev": "serve . -p 3000",
+    "serve": "serve . -p 3000",
+    "start": "serve . -p 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
